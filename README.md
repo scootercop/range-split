@@ -1,2 +1,1 @@
-# range-split
-Divide and track distinct integer ranges to multiple sub-sections efficiently
+Inefficient and precise Division and tracking of ranges made available
